@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPagerTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">第一页</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="third_fragment">第三个fragment</string>
+    <string name="second_fragment">第二个fragment</string>
+    <string name="first_fragment">第一个fragment</string>
+</resources>
